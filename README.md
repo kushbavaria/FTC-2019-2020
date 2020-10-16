@@ -3,4 +3,4 @@
 
 Kush Bavaria (Team Lead)
 
-Software Members: Dinesh Keserla (Co-software lead), Abhiram Maddukuri (Co-software Lead), Atul Errabolu, Saharsh Koganti
+Software Members: Atul Errabolu (Co-software lead), Abhiram Maddukuri (Co-software Lead), Dinesh Keserla, Saharsh Koganti
